@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @femmor
+- 👋 Hi, I’m Egomson
 - 👀 I’m interested in MERN Stack Frontend & Backend Projects
 - 🌱 I’m currently learning NodeJS Backend Development
 - 💞️ I’m looking to collaborate on React projects (Frontend/Backend)
